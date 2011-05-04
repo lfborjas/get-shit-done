@@ -1,4 +1,4 @@
-#!/usr/bin/env php
+#!/usr/bin/env python 
 <?php
 
 if ( 1 == $argc ) {
